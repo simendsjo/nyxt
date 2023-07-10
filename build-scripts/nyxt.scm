@@ -193,6 +193,9 @@
           cl-trivial-package-local-nicknames
           cl-trivial-types
           cl-unix-opts
+          cl-hunchentoot
+          cl-ningle
+          cl-clack
           ;; System deps
           gcc-toolchain                 ; Needed for cl-iolib
           cl-cffi-gtk

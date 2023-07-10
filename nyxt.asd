@@ -126,7 +126,10 @@ The renderer is configured from NYXT_RENDERER or `*nyxt-renderer*'."))
                nyxt/analysis
                nyxt/download-manager
                nyxt/password-manager
-               nyxt/theme)
+               nyxt/theme
+               hunchentoot
+               ningle
+               clack)
   :pathname #p"NYXT:source;"
   :components ((:file "utilities")
                (:file "types")
